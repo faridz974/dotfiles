@@ -1,0 +1,29 @@
+#!/bin/sh
+# Setup a machine for VSCode
+set -x
+
+code --install-extension oxc.oxc-vscode
+code --install-extension GitLab.gitlab-workflow
+code --install-extension vscode-icons-team.vscode-icons
+code --install-extension antfu.file-nesting
+code --install-extension usernamehw.errorlens
+code --install-extension HashiCorp.terraform
+code --install-extension humao.rest-client
+code --install-extension vitest.explorer
+code --install-extension redhat.vscode-yaml
+code --install-extension bierner.markdown-mermaid
+code --install-extension nhoizey.gremlins
+code --install-extension wix.vscode-import-cost
+code --install-extension docker.docker
+code --install-extension mikestead.dotenv
+code --install-extension ms-azuretools.vscode-containers
+code --install-extension ms-vscode-remote.remote-containers
+code --install-extension ms-azuretools.vscode-docker
+code --install-extension ms-dotnettools.csdevkit
+code --install-extension JetBrains.resharper-code
+code --install-extension golang.Go
+code --install-extension ms-python.python
+code --install-extension charliermarsh.ruff
+code --install-extension astral-sh.ty
+code --install-extension eamodio.gitlens
+code --install-extension yoavbls.pretty-ts-errors

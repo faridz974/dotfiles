@@ -1,0 +1,8 @@
+{
+    "workbench.iconTheme": "vscode-icons",
+    "chat.extensionUnification.enabled": false,
+    "chat.disableAIFeatures": true,
+    "terminal.external.osxExec": "Ghostty.app",
+    "terminal.integrated.fontFamily": "FiraCode Nerd Font",
+    "terminal.integrated.gpuAcceleration": "auto"
+}
